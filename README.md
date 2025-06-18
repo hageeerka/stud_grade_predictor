@@ -13,13 +13,15 @@
 
 ## Установка и запуск
 1. **Клонирование репозитория:**
-git clone https://github.com/hageeerka/stud_grade_predictor.git
-cd stud_grade_predictor
+    git clone https://github.com/hageeerka/stud_grade_predictor.git
+    cd stud_grade_predictor
+
 2. **Установка зависимостей:**
-pip install -r requirements.txt
+    pip install -r requirements.txt
+
 3. **Запустите проект:**
-cd web
-website_with_DB.py
+    cd web
+    website_with_DB.py
 
 ## Технологии
 gradio html css sklearn pandas matplotlib sqlite
