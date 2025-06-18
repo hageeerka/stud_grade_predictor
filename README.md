@@ -1,4 +1,4 @@
-# Student Grade Predictor ????
+# Student Grade Predictor 
 
 Проект для прогнозирования успеваемости студентов на основе их академических данных.
 
