@@ -12,14 +12,14 @@
 - Категоризация студентов по уровням успеваемости
 
 ## Установка и запуск
-1. **Клонирование репозитория:**
+1. Клонирование репозитория:
     git clone https://github.com/hageeerka/stud_grade_predictor.git
     cd stud_grade_predictor
 
-2. **Установка зависимостей:**
+2. Установка зависимостей:
     pip install -r requirements.txt
 
-3. **Запустите проект:**
+3. Запустите проект:
     cd web
     website_with_DB.py
 
