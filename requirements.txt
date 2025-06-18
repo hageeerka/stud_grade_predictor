@@ -1,1 +1,5 @@
-
+gradio
+matplotlib
+pandas
+joblib
+scikit-learn          
